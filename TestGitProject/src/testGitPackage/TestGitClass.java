@@ -1,4 +1,4 @@
-package testGitPackage;
+package tenGitPackage;
 
 public class TestGitClass {
 
